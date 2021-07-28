@@ -1,2 +1,1 @@
-# VIRTUALPET
-PRO-C35: VIRTUAL PET 1
+# Virtual-pet-1
